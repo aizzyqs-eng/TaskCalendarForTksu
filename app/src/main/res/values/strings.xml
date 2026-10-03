@@ -1,8 +1,12 @@
 <resources>
     <string name="app_name">Календарь задач</string>
     <string name="header_tasks">Мои задачи</string>
-    <string name="task_1">Подготовить отчёт по практике — 6 октября</string>
-    <string name="task_2">Разобраться с жизненным циклом Activity — 7 октября</string>
-    <string name="task_3">Купить продукты — 8 октября</string>
-    <string name="task_4">Записаться в спортзал — 10 октября</string>
+    <string name="status_done">Выполнена</string>
+    <string name="status_not_done">Не выполнена</string>
+    <string name="add_task">Добавить задачу</string>
+    <string name="title_add_task">Новая задача</string>
+    <string name="add_task_placeholder">Здесь будет форма добавления задачи</string>
+    <string name="title_task_detail">Детали задачи</string>
+    <string name="label_date">Дата: %1$s</string>
+    <string name="back">Назад</string>
 </resources>
