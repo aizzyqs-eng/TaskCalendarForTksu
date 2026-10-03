@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Календарь задач</string>
+    <string name="header_tasks">Мои задачи</string>
+    <string name="task_1">Подготовить отчёт по практике — 6 октября</string>
+    <string name="task_2">Разобраться с жизненным циклом Activity — 7 октября</string>
+    <string name="task_3">Купить продукты — 8 октября</string>
+    <string name="task_4">Записаться в спортзал — 10 октября</string>
+</resources>
